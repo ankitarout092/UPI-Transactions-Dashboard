@@ -1,5 +1,4 @@
 # Power BI Project : UPI Transactions Dashboard
-# UPI Transactions Dashboard
 
 This repository contains the Power BI project for analyzing UPI (Unified Payments Interface) transaction data. The dashboard provides comprehensive insights into transaction trends, financial distribution, and user behavior within the UPI ecosystem. It is designed to be an interactive tool for exploring key metrics and patterns, enabling data-driven decision-making.
 
