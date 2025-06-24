@@ -1,4 +1,4 @@
-# UPI-Transactions-Data-Analysis
+# Power BI Project : UPI Transactions Dashboard
 Power BI Project: UPI Transactions Data Analysis
 
 - Conducted in-depth analysis of UPI transaction data to uncover trends and insights using Power BI.
