@@ -56,13 +56,13 @@ The Power BI project includes two main dashboard pages, each offering distinct v
 
 This dashboard features a column chart visualizing the sum of transaction amounts for each month in 2024. It provides a high-level overview of transaction volume trends throughout the year. The dashboard is equipped with various filters, including `BankNameSent`, `BankNameReceived`, `City`, `DeviceType`, `Gender`, `Age`, `MerchantAccountNumber`, `PaymentMethod`, `Purpose`, and `TransactionType`. These filters enable users to drill down into specific segments of the data, facilitating granular analysis of transaction patterns.
 
-![Dashboard 1 - Transaction by Month](./UPI-Transactions-Dashboard/Dashboard1.png)
+![Dashboard 1 - Transaction by Month](https://github.com/ankitarout092/UPI-Transactions-Dashboard/blob/main/Dashboard1.png)
 
 ### Dashboard 2: Remaining Balance by City and Month
 
 This dashboard presents a detailed table that breaks down the `RemainingBalance` by `City` and `Month`. It offers insights into the financial distribution and activity across different urban centers. Similar to Dashboard 1, this page also incorporates a comprehensive set of filters, allowing users to interactively explore remaining balance data based on specific criteria. This is particularly useful for identifying regional financial disparities or growth areas.
 
-![Dashboard 2 - Remaining Balance](./UPI-Transactions-Dashboard/Dashboard2.png)
+![Dashboard 2 - Remaining Balance](https://github.com/ankitarout092/UPI-Transactions-Dashboard/blob/main/Dashboard2.png)
 
 
 
